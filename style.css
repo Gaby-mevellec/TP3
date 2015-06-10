@@ -137,16 +137,20 @@ h2,h3
 
 #footer
 {
+	margin-left: auto;
+  margin-right: auto;
 	clear: both;
 	background: #ccc;
 	text-align: left;
 	font-weight: bold;
 	padding: 20px;
-	height: 1%;
+	height: 50px;
+	width:1400px;
 	background-image: url('bas.jpg');
 	background-repeat: no-repeat;
 	background-size: cover ;
 	background-position:center; 
+	color:#FFF;
 }
 #art {width: 1500px;
  margin-left: auto;
